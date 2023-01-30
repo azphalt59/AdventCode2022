@@ -1,0 +1,7 @@
+C:\Users\hbarbary\Desktop\AventCode\AdventCode_12\AdventCode_12\AdventCode_12\bin\Debug\AdventCode_12.exe.config
+C:\Users\hbarbary\Desktop\AventCode\AdventCode_12\AdventCode_12\AdventCode_12\bin\Debug\AdventCode_12.exe
+C:\Users\hbarbary\Desktop\AventCode\AdventCode_12\AdventCode_12\AdventCode_12\bin\Debug\AdventCode_12.pdb
+C:\Users\hbarbary\Desktop\AventCode\AdventCode_12\AdventCode_12\AdventCode_12\obj\Debug\AdventCode_12.csproj.AssemblyReference.cache
+C:\Users\hbarbary\Desktop\AventCode\AdventCode_12\AdventCode_12\AdventCode_12\obj\Debug\AdventCode_12.csproj.CoreCompileInputs.cache
+C:\Users\hbarbary\Desktop\AventCode\AdventCode_12\AdventCode_12\AdventCode_12\obj\Debug\AdventCode_12.exe
+C:\Users\hbarbary\Desktop\AventCode\AdventCode_12\AdventCode_12\AdventCode_12\obj\Debug\AdventCode_12.pdb

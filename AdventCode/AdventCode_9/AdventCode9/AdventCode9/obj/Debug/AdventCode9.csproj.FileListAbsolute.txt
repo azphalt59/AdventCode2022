@@ -1,0 +1,7 @@
+C:\Users\hbarbary\Desktop\AdventCode\AdventCode_9\AdventCode9\AdventCode9\bin\Debug\AdventCode9.exe.config
+C:\Users\hbarbary\Desktop\AdventCode\AdventCode_9\AdventCode9\AdventCode9\bin\Debug\AdventCode9.exe
+C:\Users\hbarbary\Desktop\AdventCode\AdventCode_9\AdventCode9\AdventCode9\bin\Debug\AdventCode9.pdb
+C:\Users\hbarbary\Desktop\AdventCode\AdventCode_9\AdventCode9\AdventCode9\obj\Debug\AdventCode9.csproj.AssemblyReference.cache
+C:\Users\hbarbary\Desktop\AdventCode\AdventCode_9\AdventCode9\AdventCode9\obj\Debug\AdventCode9.csproj.CoreCompileInputs.cache
+C:\Users\hbarbary\Desktop\AdventCode\AdventCode_9\AdventCode9\AdventCode9\obj\Debug\AdventCode9.exe
+C:\Users\hbarbary\Desktop\AdventCode\AdventCode_9\AdventCode9\AdventCode9\obj\Debug\AdventCode9.pdb
