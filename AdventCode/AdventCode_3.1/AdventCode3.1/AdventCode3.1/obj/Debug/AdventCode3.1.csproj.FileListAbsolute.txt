@@ -1,0 +1,14 @@
+C:\Users\hbarbary\Documents\GitHub\AdventCode2022\AdventCode\AdventCode_3.1\AdventCode3.1\bin\Debug\AdventCode3.1.exe.config
+C:\Users\hbarbary\Documents\GitHub\AdventCode2022\AdventCode\AdventCode_3.1\AdventCode3.1\bin\Debug\AdventCode3.1.exe
+C:\Users\hbarbary\Documents\GitHub\AdventCode2022\AdventCode\AdventCode_3.1\AdventCode3.1\bin\Debug\AdventCode3.1.pdb
+C:\Users\hbarbary\Documents\GitHub\AdventCode2022\AdventCode\AdventCode_3.1\AdventCode3.1\obj\Debug\AdventCode3.1.csproj.AssemblyReference.cache
+C:\Users\hbarbary\Documents\GitHub\AdventCode2022\AdventCode\AdventCode_3.1\AdventCode3.1\obj\Debug\AdventCode3.1.csproj.CoreCompileInputs.cache
+C:\Users\hbarbary\Documents\GitHub\AdventCode2022\AdventCode\AdventCode_3.1\AdventCode3.1\obj\Debug\AdventCode3.1.exe
+C:\Users\hbarbary\Documents\GitHub\AdventCode2022\AdventCode\AdventCode_3.1\AdventCode3.1\obj\Debug\AdventCode3.1.pdb
+C:\Users\hbarbary\Documents\GitHub\AdventCode2022\AdventCode\AdventCode_3.1\AdventCode3.1\AdventCode3.1\bin\Debug\AdventCode3.1.exe.config
+C:\Users\hbarbary\Documents\GitHub\AdventCode2022\AdventCode\AdventCode_3.1\AdventCode3.1\AdventCode3.1\bin\Debug\AdventCode3.1.exe
+C:\Users\hbarbary\Documents\GitHub\AdventCode2022\AdventCode\AdventCode_3.1\AdventCode3.1\AdventCode3.1\bin\Debug\AdventCode3.1.pdb
+C:\Users\hbarbary\Documents\GitHub\AdventCode2022\AdventCode\AdventCode_3.1\AdventCode3.1\AdventCode3.1\obj\Debug\AdventCode3.1.csproj.AssemblyReference.cache
+C:\Users\hbarbary\Documents\GitHub\AdventCode2022\AdventCode\AdventCode_3.1\AdventCode3.1\AdventCode3.1\obj\Debug\AdventCode3.1.csproj.CoreCompileInputs.cache
+C:\Users\hbarbary\Documents\GitHub\AdventCode2022\AdventCode\AdventCode_3.1\AdventCode3.1\AdventCode3.1\obj\Debug\AdventCode3.1.exe
+C:\Users\hbarbary\Documents\GitHub\AdventCode2022\AdventCode\AdventCode_3.1\AdventCode3.1\AdventCode3.1\obj\Debug\AdventCode3.1.pdb

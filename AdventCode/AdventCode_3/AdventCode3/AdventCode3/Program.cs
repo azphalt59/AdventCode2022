@@ -11,7 +11,7 @@ namespace AdventCode3
     {
         static void Main(string[] args)
         {
-            string[] rucksacks = File.ReadAllLines(@"C:\Users\hbarbary\Desktop\AdventCode\AdventCode_3\Input\input2.txt");
+            string[] rucksacks = File.ReadAllLines(@"C:\Users\hbarbary\Documents\GitHub\AdventCode2022\AdventCode\AdventCode_3\Input\input2.txt");
             int sum = 0;
 
             foreach (string rucksack in rucksacks)
@@ -24,15 +24,20 @@ namespace AdventCode3
                     {
                         if(letter == l)
                         {
+                            int letterValue = 0;
                             if(Char.IsUpper(letter))
                             {
-                                sum += 26;
+                                letterValue += 26;
+                                letter.ToString().ToLower();
                             }
-
+                            letterValue = (int)Char.GetNumericValue(letter) - 64;
+                            sum += letterValue;
                         }
                     }
                 }
             }
+
+            Console.WriteLine(sum);
         }
     }
 }
